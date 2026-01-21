@@ -1,0 +1,44 @@
+sammusic <!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>SAM Music – Academia de Música</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>SAM Music</h1>
+    <p>Academia de Música</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="contactos.html">Contactos</a>
+  </nav>
+
+  <section class="hero">
+    <h2>Formamos músicos com excelência</h2>
+    <p>Aulas de Piano, Guitarra, Canto, Violino e Musicalização Infantil</p>
+    <a class="btn" href="contactos.html">Fale Connosco</a>
+  </section>
+
+  <section class="cursos">
+    <h3>Nossos Cursos</h3>
+    <ul>
+      <li>Piano</li>
+      <li>Guitarra</li>
+      <li>Canto</li>
+      <li>Violino</li>
+      <li>Musicalização Infantil</li>
+      <li>Formação de Corais</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2026 SAM Music – Academia de Música</p>
+  </footer>
+
+</body>
+</html>
