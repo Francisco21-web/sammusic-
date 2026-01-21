@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #111;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background: #222;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #f0c040;
+}
+
+.hero {
+  padding: 40px;
+  background: white;
+  text-align: center;
+}
+
+.hero h2 {
+  color: #111;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #f0c040;
+  color: #111;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.cursos {
+  padding: 30px;
+  background: #fff;
+}
+
+.cursos ul {
+  list-style: none;
+  padding: 0;
+}
+
+.cursos li {
+  padding: 8px 0;
+}
+
+.contactos {
+  padding: 40px;
+  text-align: center;
+  background: white;
+}
+
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
