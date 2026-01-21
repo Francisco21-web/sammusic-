@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Contactos – SAM Music</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Contactos</h1>
+    <p>SAM Music – Academia de Música</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="contactos.html">Contactos</a>
+  </nav>
+
+  <section class="contactos">
+    <p><strong>Telefone / WhatsApp:</strong> 953 520 644</p>
+    <p><strong>Email:</strong> sammusic@gmail.com</p>
+
+    <a class="btn" 
+       href="https://wa.me/244953520644" 
+       target="_blank">
+       Falar no WhatsApp
+    </a>
+  </section>
+
+  <footer>
+    <p>Atendimento ao domicílio disponível</p>
+  </footer>
+
+</body>
+</html>
