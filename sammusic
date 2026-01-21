@@ -1,49 +1,47 @@
-sammusic <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
   <title>SAM Music – Academia de Música</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-</head>.logo {
-  width: 150px;
-  height: auto;
-  display: block;
-  margin: 0 auto 10px auto;
-}
+</head>
 <body>
 
   <header>
+    <img src="imagens/logo.png" alt="SAM Music Logo" class="logo">
     <h1>SAM Music</h1>
-<img src="imagens/logo.png" alt="SAM Music Logo" class="logo">
     <p>Academia de Música</p>
   </header>
 
   <nav>
-    <a href="index.html">Início</a>
+    <a href="index.html" class="active">Início</a>
     <a href="contactos.html">Contactos</a>
   </nav>
 
   <section class="hero">
     <h2>Formamos músicos com excelência</h2>
     <p>Aulas de Piano, Guitarra, Canto, Violino e Musicalização Infantil</p>
-    <a class="btn" href="contactos.html">Fale Connosco</a>
+    <a class="btn whatsapp" href="https://wa.me/244953520644" target="_blank">
+      📱 Fale Connosco no WhatsApp
+    </a>
   </section>
 
   <section class="cursos">
     <h3>Nossos Cursos</h3>
     <ul>
-      <li>Piano</li>
-      <li>Guitarra</li>
-      <li>Canto</li>
-      <li>Violino</li>
-      <li>Musicalização Infantil</li>
-      <li>Formação de Corais</li>
+      <li>Piano – 25.000 KZ</li>
+      <li>Guitarra – 25.000 KZ</li>
+      <li>Canto – 35.000 KZ</li>
+      <li>Violino – 45.000 KZ</li>
+      <li>Musicalização Infantil – 40.000 KZ</li>
+      <li>Formação de Corais – 135.000 KZ</li>
     </ul>
   </section>
 
   <footer>
     <p>© 2026 SAM Music – Academia de Música</p>
+    <p>Atendimento ao domicílio disponível</p>
   </footer>
 
 </body>
