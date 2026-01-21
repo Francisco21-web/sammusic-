@@ -5,11 +5,17 @@ sammusic <!DOCTYPE html>
   <title>SAM Music – Academia de Música</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-</head>
+</head>.logo {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto 10px auto;
+}
 <body>
 
   <header>
     <h1>SAM Music</h1>
+<img src="imagens/logo.png" alt="SAM Music Logo" class="logo">
     <p>Academia de Música</p>
   </header>
 
